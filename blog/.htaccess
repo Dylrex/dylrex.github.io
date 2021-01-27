@@ -1,0 +1,6 @@
+Options +Indexes
+AddDescription "First Pos" ".html"
+AddDescription "This is a title" ".html"
+AddDescription "Tiii" ".html"
+AddDescription "Test Post" ".html"
+AddDescription "First Post" "first-post.html" #Wed, 27 Jan 2021 11:42:09 +1100
